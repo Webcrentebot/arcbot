@@ -18,6 +18,9 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
+function action(event){
+  const {retweeted_status, id_str, screen_name, is_quote_status} = event;
+  const {name} = event.user;
 const words = 'arctic monkeys';
 
 /*
