@@ -6,8 +6,8 @@ const Twit = require('twit');
 const config = {
   consumer_key: 'co1Q1GiekJZJ4eyOtzPEbNcaz',
   consumer_secret: 'wZaBALj1MSKX22D9smjL0IFD9611CX7VYfu2xU28hOKNtaPIky',
-  access_token: '1272323184411512833-tDthFufIur9Sul5i3TY6zUj58tIqap',
-  access_token_secret: 'fOyZgXk7uRmkqLzN5utY4oWmbF5dJfea1BruiUGNMjjoA',
+  access_token: '1272323184411512833-oMJbcj2J5QVHEMiAU1ObsH33XDSeoJ',
+  access_token_secret: 'j3acnlZz6m2qs2PBwIaGXzQdElVolBZwbnx7cTmR16c5K',
 };
 
 /*
