@@ -4,10 +4,10 @@ const Twit = require('twit');
  * - Insert each Twitter credential inside it's equivalent quote.
  */
 const config = {
-  consumer_key: 'AzJWkO75kS0L7BWfmdwhXRM39',
-  consumer_secret: '5JMtPZJEA258TKngIpC7HzbCTjHDGa9gkSmuRy2bDYcjIsTzNN',
-  access_token: '1272323184411512833-VVM5f9C056cmqbNmwUpq6pfTEZs2EN',
-  access_token_secret: 'gXwZd3Ou8eKM2avwSbvAYPUIZoGJjuSnUEDP5VioAVfBH',
+  consumer_key: '1NXeZ6G6PPslrZxCdZGHPHF37',
+  consumer_secret: 'yC5FNU9NemYrX3IFQwQLQJUediBFzOsKdhkEGBHZhpFEuGiqiJ',
+  access_token: '1392587350824345600-JxiMHogkfWLKzHFtm1EwRyO8PpQhBj',
+  access_token_secret: 'iKc7pRFMzlL3k1v49t872EseKTbEGxlq6BiC00ZvIZg0m',
 };
 
 /*
@@ -18,13 +18,13 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'Arctic monkeys';
+const words = 'billie eilish';
 
 /*
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = 'botdk_';
+const screenName = 'BillieEilish_RT';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
