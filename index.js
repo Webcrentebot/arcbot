@@ -24,7 +24,7 @@ const words = 'Lille;
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = '@Lille_BOT';
+const screenName = '@lille_bot';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
