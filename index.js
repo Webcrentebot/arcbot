@@ -8,6 +8,7 @@ const config = {
   consumer_secret: 'hw6T2sfWZyOTdn6LjfY5R83aUxvBQq78cIbz3tiR127HLZL1ZY',
   access_token: '1478470492470325251-5ZPkpiWOwFdBQyD9K0QoNEEhLQ6hJi',
   access_token_secret: 'X0kRMdVe8Ekzbe1USFXcVOLSnerdwScTzLtKjxqoZzrY7',
+  bearer_token: 'AAAAAAAAAAAAAAAAAAAAAKKAYQEAAAAA1bePaE3qk5VhDSRJoz2Ma4TK9z0%3DIvgaqF5OIpLz6GK3sfMOCgnQ47kDSRMhZGMRfS1NnjyI2MV7WP'
 };
 
 /*
